@@ -3,7 +3,7 @@
 // Created by: Nathan Araujo
 // Created on: November 26, 2022
 // This program asks the user for their level, it then turns that level
-// into a percentage, it then displays it back to the
+// into a percentage
 
 #include <iostream>
 
